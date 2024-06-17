@@ -1,5 +1,5 @@
 let dato, resultado;
-// En la linea 1, estamos declarando las variables "dato y resultado"
+/// En la linea 1, estamos declarando las variables "dato y resultadooo"
 val1 = window.prompt("Introduce tu nombre", "...");
 // En la linea 3, le estamos pidiendo al usuario que ingrese
 //su nombre mediante un cartel que aparece en el navegador
